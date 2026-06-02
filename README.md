@@ -15,7 +15,7 @@ You can get the extension in two ways:
 - **Clone via Git** (Recommended)  
   Open a command prompt in your desired directory and run:  
   ```bash
-  git clone https://github.com/yourusername/Codeforces-Editorial-Blocker.git
+  git clone https://github.com/yourusername/codeforces-editorial-blocker.git
 - **Manual Download**   
   Alternatively, download the repository as a ZIP file from GitHub and extract it.  
 
@@ -23,7 +23,7 @@ You can get the extension in two ways:
 
 - Open Chrome and go to: `chrome://extensions/`  
 - Enable **Developer Mode** (toggle in the top-right corner).  
-- Click **Load Unpacked** and select the extracted `Codeforces-Editorial-Blocker` folder.  
+- Click **Load Unpacked** and select the extracted `codeforces-editorial-blocker` folder.  
 - The extension is now installed and ready to use!  
 
 
